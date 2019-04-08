@@ -1,0 +1,5 @@
+daphne<=2.2.5
+Django<=2.2
+channels<=2.2.5
+gunicorn<=19.9.0
+channels_redis<=2.3.3

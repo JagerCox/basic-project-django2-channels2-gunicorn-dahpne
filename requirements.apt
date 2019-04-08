@@ -1,0 +1,3 @@
+python-dev
+build-essential tcl
+redis-server
